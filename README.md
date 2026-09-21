@@ -1,2 +1,2 @@
 
-this is an exampel
+this is an example
